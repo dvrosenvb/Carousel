@@ -6,7 +6,7 @@ App builded just to practice and implements next listed things:
 - CollectionView
 - Custom cell
 
-> Feel free to clone and improve functionallity and of course code.
+> Feel free to clone and improve functionallity and of course the code.
 
 ## Preview v.1.0
 <div style="float:left">
